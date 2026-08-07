@@ -30,7 +30,8 @@ jobs:
 
           if arrays_path.exists():
               arrays_count = sum(
-                  1 for item in arrays_path.iterdir()
+                  1
+                  for item in arrays_path.iterdir()
                   if item.is_dir() and item.name not in excluded
               )
           else:
@@ -58,18 +59,23 @@ jobs:
           filled = round((total_uploaded / TOTAL_PROBLEMS) * bar_length)
           progress_bar = "█" * filled + "░" * (bar_length - filled)
 
+          # -----------------------------
           # Update MAIN README
+          # -----------------------------
+
           main_readme = Path("README.md")
 
           if main_readme.exists():
               text = main_readme.read_text(encoding="utf-8")
 
+              # Update Arrays count
               text = re.sub(
                   r'(\| 📚 Arrays\s+\|)\s*\d+(\s*\|)',
                   rf'\g<1> {arrays_count}\2',
                   text
               )
 
+              # Update total uploaded count
               text = re.sub(
                   r'(\|\s*\*\*247\*\*\s*\|)\s*\*\*\d+\*\*',
                   rf'\g<1> **{total_uploaded}**',
@@ -78,22 +84,28 @@ jobs:
 
               main_readme.write_text(text, encoding="utf-8")
 
+          # -----------------------------
           # Update ARRAYS README
+          # -----------------------------
+
           arrays_readme = Path("Arrays/README.md")
 
           if arrays_readme.exists():
               text = arrays_readme.read_text(encoding="utf-8")
 
+              # Update uploaded count
               text = re.sub(
                   r'Uploaded\s*:\s*\d+\s*Problems',
                   f'Uploaded : {arrays_count} Problems',
                   text
               )
 
+              # Update progress bar
               text = re.sub(
-                  r'Uploaded\s*:\s*\d+\s*Problems\s*\n[█░]+',
-                  f'Uploaded : {arrays_count} Problems\n{progress_bar} {arrays_count}',
-                  text
+                  r'^[█░]+\s*(?:\d+\s*)*$',
+                  f'{progress_bar} {arrays_count}',
+                  text,
+                  flags=re.MULTILINE
               )
 
               arrays_readme.write_text(text, encoding="utf-8")
