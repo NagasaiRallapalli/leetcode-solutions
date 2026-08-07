@@ -29,8 +29,8 @@ Each solution includes:
 # 📈 Progress
 
 ```
-Uploaded : 4 Problems
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 4 4
+Uploaded : 5 Problems
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5 4 4
 ```
 
 ---
