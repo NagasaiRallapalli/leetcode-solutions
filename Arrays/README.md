@@ -28,9 +28,9 @@ Each solution includes:
 
 # 📈 Progress
 
-```
-Uploaded : 6 Problems
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 6
+```text
+Uploaded : 7 Problems
+█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7
 ```
 
 ---
@@ -39,12 +39,13 @@ Uploaded : 6 Problems
 
 | No. | Problem                             | Difficulty | Status |
 | :-: | ----------------------------------- | :--------: | :----: |
-|  1  | Two Sum                             | 🟢 Easy    |   ✅   |
-|  2  | Median of Two Sorted Arrays         | 🔴 Hard    |   ✅   |
-|  3  | Container With Most Water            | 🟡 Medium  |   ✅   |
-|  4  | Remove Duplicates from Sorted Array | 🟢 Easy    |   ✅   |
-|  5  | Remove Element                      | 🟢 Easy    |   ✅   |
-|  6  | Search in Rotated Sorted Array      | 🟡 Medium  |   ✅   |
+| 1 | Two Sum                             | 🟢 Easy   | ✅ |
+| 2 | Median of Two Sorted Arrays         | 🔴 Hard   | ✅ |
+| 3 | Container With Most Water            | 🟡 Medium | ✅ |
+| 4 | Remove Duplicates from Sorted Array | 🟢 Easy   | ✅ |
+| 5 | Remove Element                      | 🟢 Easy   | ✅ |
+| 6 | Search in Rotated Sorted Array      | 🟡 Medium | ✅ |
+| 7 | Maximum Subarray                    | 🟡 Medium | ✅ |
 ---
 
 ## 🛠️ Language
