@@ -79,12 +79,28 @@ Leetcode Solutions
 ├── Arrays
 │   ├── README.md
 │   ├── Two Sum
-│   └── Median of Two Sorted Arrays
+│   ├── Median of Two Sorted Arrays
+│   ├── Container With Most Water
+│   ├── Remove Duplicates from Sorted Array
+│   ├── Remove Element
+│   ├── Search in Rotated Sorted Array
+│   ├── Maximum Subarray
+│   ├── Jump Game
+│   └── Merge Intervals
 │
 ├── Strings
+├── Hash Table
+├── Two Pointers
+├── Sliding Window
+├── Binary Search
 ├── Linked List
+├── Stack
+├── Queue
 ├── Trees
 ├── Graphs
+├── Dynamic Programming
+├── Math
+├── Bit Manipulation
 └── SQL
 ```
 

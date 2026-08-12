@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-7-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-9-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -47,6 +47,7 @@ Uploaded : 8 Problems
 |  6  | Search in Rotated Sorted Array      | 🟡 Medium  |   ✅   |
 |  7  | Maximum Subarray                    | 🟡 Medium  |   ✅   |
 |  8  | Jump Game                           | 🟡 Medium  |   ✅   |
+|  9  | Merge Intervals                     | 🟡 Medium  |   ✅   |
 ---
 
 ## 🛠️ Language
