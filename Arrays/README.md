@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-12-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-13-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -51,6 +51,7 @@ Uploaded : 12 Problems
 | 10  | Plus One                            | 🟢 Easy    |   ✅   |
 | 11  | Sort Colors                         | 🟡 Medium  |   ✅   |
 | 12  | Merge Sorted Array                  | 🟢 Easy    |   ✅   |
+| 13  | Best Time to Buy and Sell Stock     | 🟢 Easy    |   ✅   |
 ---
 
 ## 🛠️ Language
