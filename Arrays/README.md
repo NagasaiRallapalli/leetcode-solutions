@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-13-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-14-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -41,7 +41,7 @@ Uploaded : 13 Problems
 | :-: | ----------------------------------- | :--------: | :----: |
 |  1  | Two Sum                             | 🟢 Easy    |   ✅   |
 |  2  | Median of Two Sorted Arrays         | 🔴 Hard    |   ✅   |
-|  3  | Container With Most Water            | 🟡 Medium  |   ✅   |
+|  3  | Container With Most Water           | 🟡 Medium  |   ✅   |
 |  4  | Remove Duplicates from Sorted Array | 🟢 Easy    |   ✅   |
 |  5  | Remove Element                      | 🟢 Easy    |   ✅   |
 |  6  | Search in Rotated Sorted Array      | 🟡 Medium  |   ✅   |
@@ -52,6 +52,7 @@ Uploaded : 13 Problems
 | 11  | Sort Colors                         | 🟡 Medium  |   ✅   |
 | 12  | Merge Sorted Array                  | 🟢 Easy    |   ✅   |
 | 13  | Best Time to Buy and Sell Stock     | 🟢 Easy    |   ✅   |
+| 14  | Single Number                       | 🟢 Easy    |   ✅   |
 ---
 
 ## 🛠️ Language
