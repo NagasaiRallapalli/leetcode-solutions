@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-14-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-15-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -36,7 +36,6 @@ Uploaded : 14 Problems
 ---
 
 # 📂 Problems
-
 | No. | Problem                             | Difficulty | Status |
 | :-: | ----------------------------------- | :--------: | :----: |
 |  1  | Two Sum                             | 🟢 Easy    |   ✅   |
@@ -53,6 +52,7 @@ Uploaded : 14 Problems
 | 12  | Merge Sorted Array                  | 🟢 Easy    |   ✅   |
 | 13  | Best Time to Buy and Sell Stock     | 🟢 Easy    |   ✅   |
 | 14  | Single Number                       | 🟢 Easy    |   ✅   |
+| 15  | Single Number II                    | 🟡 Medium  |   ✅   |
 ---
 
 ## 🛠️ Language
