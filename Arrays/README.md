@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-15-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-16-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -53,6 +53,7 @@ Uploaded : 15 Problems
 | 13  | Best Time to Buy and Sell Stock     | 🟢 Easy    |   ✅   |
 | 14  | Single Number                       | 🟢 Easy    |   ✅   |
 | 15  | Single Number II                    | 🟡 Medium  |   ✅   |
+| 16  | Maximum Product Subarray            | 🟡 Medium  |   ✅   |
 ---
 
 ## 🛠️ Language
