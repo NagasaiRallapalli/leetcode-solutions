@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-16-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-17-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -40,7 +40,7 @@ Uploaded : 16 Problems
 | :-: | ----------------------------------- | :--------: | :----: |
 |  1  | Two Sum                             | 🟢 Easy    |   ✅   |
 |  2  | Median of Two Sorted Arrays         | 🔴 Hard    |   ✅   |
-|  3  | Container With Most Water           | 🟡 Medium  |   ✅   |
+|  3  | Container With Most Water            | 🟡 Medium  |   ✅   |
 |  4  | Remove Duplicates from Sorted Array | 🟢 Easy    |   ✅   |
 |  5  | Remove Element                      | 🟢 Easy    |   ✅   |
 |  6  | Search in Rotated Sorted Array      | 🟡 Medium  |   ✅   |
@@ -54,6 +54,7 @@ Uploaded : 16 Problems
 | 14  | Single Number                       | 🟢 Easy    |   ✅   |
 | 15  | Single Number II                    | 🟡 Medium  |   ✅   |
 | 16  | Maximum Product Subarray            | 🟡 Medium  |   ✅   |
+| 17  | Find Minimum in Rotated Sorted Array II | 🔴 Hard |   ✅   |
 ---
 
 ## 🛠️ Language
