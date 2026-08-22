@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-18-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-19-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -56,6 +56,7 @@ Uploaded : 18 Problems
 | 16  | Maximum Product Subarray                     | 🟡 Medium  |   ✅   |
 | 17  | Find Minimum in Rotated Sorted Array II      | 🔴 Hard    |   ✅   |
 | 18  | Rotate Array                                 | 🟡 Medium  |   ✅   |
+| 19  | Count Primes                                 | 🟡 Medium  |   ✅   |
 ---
 
 ## 🛠️ Language
