@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-19-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-20-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -41,9 +41,9 @@ Uploaded : 19 Problems
 |  1  | Two Sum                                      | 🟢 Easy    |   ✅   |
 |  2  | Median of Two Sorted Arrays                  | 🔴 Hard    |   ✅   |
 |  3  | Container With Most Water                    | 🟡 Medium  |   ✅   |
-|  4  | Remove Duplicates from Sorted Array         | 🟢 Easy    |   ✅   |
+|  4  | Remove Duplicates from Sorted Array          | 🟢 Easy    |   ✅   |
 |  5  | Remove Element                               | 🟢 Easy    |   ✅   |
-|  6  | Search in Rotated Sorted Array              | 🟡 Medium  |   ✅   |
+|  6  | Search in Rotated Sorted Array               | 🟡 Medium  |   ✅   |
 |  7  | Maximum Subarray                             | 🟡 Medium  |   ✅   |
 |  8  | Jump Game                                    | 🟡 Medium  |   ✅   |
 |  9  | Merge Intervals                              | 🟡 Medium  |   ✅   |
@@ -57,6 +57,7 @@ Uploaded : 19 Problems
 | 17  | Find Minimum in Rotated Sorted Array II      | 🔴 Hard    |   ✅   |
 | 18  | Rotate Array                                 | 🟡 Medium  |   ✅   |
 | 19  | Count Primes                                 | 🟡 Medium  |   ✅   |
+| 20  | Kth Largest Element in an Array              | 🟡 Medium  |   ✅   |
 ---
 
 ## 🛠️ Language
