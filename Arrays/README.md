@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-21-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-22-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -59,6 +59,7 @@ Uploaded : 21 Problems
 | 19  | Count Primes                                 | 🟡 Medium  |   ✅   |
 | 20  | Kth Largest Element in an Array              | 🟡 Medium  |   ✅   |
 | 21  | Contains Duplicate                           | 🟢 Easy    |   ✅   |
+| 22  | Contains Duplicate II                        | 🟢 Easy    |   ✅   |
 ---
 
 ## 🛠️ Language
