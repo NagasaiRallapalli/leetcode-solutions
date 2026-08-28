@@ -60,6 +60,7 @@ Uploaded : 22 Problems
 | 20  | Kth Largest Element in an Array              | 🟡 Medium  |   ✅   |
 | 21  | Contains Duplicate                           | 🟢 Easy    |   ✅   |
 | 22  | Contains Duplicate II                        | 🟢 Easy    |   ✅   |
+| 23  | Product of Array Except Self                 | 🟡 Medium  |   ✅   |
 ---
 
 ## 🛠️ Language
