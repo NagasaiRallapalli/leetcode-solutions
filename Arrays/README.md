@@ -33,8 +33,8 @@ Each solution includes:
 # 📈 Progress
 
 ```text
-Uploaded : 23 Problems
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 23
+Uploaded : 24 Problems
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 24
 ```
 
 ---
