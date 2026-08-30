@@ -5,12 +5,10 @@
 # Arrays - LeetCode Solutions
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-<<<<<<< HEAD
-![Problems](https://img.shields.io/badge/Problems-23-brightgreen?style=for-the-badge)
-=======
-![Problems](https://img.shields.io/badge/Problems-24-brightgreen?style=for-the-badge)
->>>>>>> 7e730c2 (Add Single Number III solution)
+
+![Problems](https://img.shields.io/badge/Problems-25-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -33,21 +31,24 @@ Each solution includes:
 # 📈 Progress
 
 ```text
-Uploaded : 24 Problems
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 24
+
+Uploaded : 25 Problems
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25
+>>>>>>> 50b96f3 (Add Missing Number solution)
 ```
 
 ---
 
 # 📂 Problems
+
 | No. | Problem                                      | Difficulty | Status |
 | :-: | -------------------------------------------- | :--------: | :----: |
 |  1  | Two Sum                                      | 🟢 Easy    |   ✅   |
 |  2  | Median of Two Sorted Arrays                  | 🔴 Hard    |   ✅   |
 |  3  | Container With Most Water                    | 🟡 Medium  |   ✅   |
-|  4  | Remove Duplicates from Sorted Array         | 🟢 Easy    |   ✅   |
+|  4  | Remove Duplicates from Sorted Array          | 🟢 Easy    |   ✅   |
 |  5  | Remove Element                               | 🟢 Easy    |   ✅   |
-|  6  | Search in Rotated Sorted Array              | 🟡 Medium  |   ✅   |
+|  6  | Search in Rotated Sorted Array               | 🟡 Medium  |   ✅   |
 |  7  | Maximum Subarray                             | 🟡 Medium  |   ✅   |
 |  8  | Jump Game                                    | 🟡 Medium  |   ✅   |
 |  9  | Merge Intervals                              | 🟡 Medium  |   ✅   |
@@ -66,6 +67,8 @@ Uploaded : 24 Problems
 | 22  | Contains Duplicate II                        | 🟢 Easy    |   ✅   |
 | 23  | Product of Array Except Self                 | 🟡 Medium  |   ✅   |
 | 24  | Single Number III                            | 🟡 Medium  |   ✅   |
+| 25  | Missing Number                               | 🟢 Easy    |   ✅   |
+
 ---
 
 ## 🛠️ Language
@@ -83,6 +86,8 @@ Uploaded : 24 Problems
 - Prefix Sum
 - Hashing
 - Greedy
+- Bit Manipulation
+- Mathematical Algorithms
 
 ---
 
