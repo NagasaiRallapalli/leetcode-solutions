@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-25-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-26-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -32,17 +32,13 @@ Each solution includes:
 
 ```text
 
-Uploaded : 25 Problems
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 25
->>>>>>> 50b96f3 (Add Missing Number solution)
-```
-
----
+Uploaded : 26 Problems
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 26
 
 # 📂 Problems
 
-| No. | Problem                                      | Difficulty | Status |
-| :-: | -------------------------------------------- | :--------: | :----: |
+| No. | Problem                                      | Difficulty | Status  |
+| :-: | -------------------------------------------- | :--------: | :----:  |
 |  1  | Two Sum                                      | 🟢 Easy    |   ✅   |
 |  2  | Median of Two Sorted Arrays                  | 🔴 Hard    |   ✅   |
 |  3  | Container With Most Water                    | 🟡 Medium  |   ✅   |
@@ -68,6 +64,7 @@ Uploaded : 25 Problems
 | 23  | Product of Array Except Self                 | 🟡 Medium  |   ✅   |
 | 24  | Single Number III                            | 🟡 Medium  |   ✅   |
 | 25  | Missing Number                               | 🟢 Easy    |   ✅   |
+| 26  | Move Zeroes                                  | 🟢 Easy    |   ✅   |
 
 ---
 
