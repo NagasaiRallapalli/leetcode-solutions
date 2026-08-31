@@ -34,7 +34,6 @@ Each solution includes:
 
 Uploaded : 26 Problems
 ███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 26
-
 # 📂 Problems
 
 | No. | Problem                                      | Difficulty | Status  |
