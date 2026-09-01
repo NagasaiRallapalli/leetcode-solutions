@@ -52,7 +52,7 @@ This repository contains my solutions to LeetCode problems implemented in **Pyth
 
 | Total Solved | Uploaded |
 |-------------:|---------:|
-| **247** | **27** |
+| **335** | **27** |
 
 ---
 
