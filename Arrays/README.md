@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-26-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-27-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -64,6 +64,7 @@ Uploaded : 26 Problems
 | 24  | Single Number III                            | 🟡 Medium  |   ✅   |
 | 25  | Missing Number                               | 🟢 Easy    |   ✅   |
 | 26  | Move Zeroes                                  | 🟢 Easy    |   ✅   |
+| 27  | Find the Duplicate Number                    | 🟡 Medium  |   ✅   |
 
 ---
 
