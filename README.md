@@ -5,7 +5,7 @@
 # Welcome to My LeetCode Repository 👨‍💻
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-247%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-335%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-DSA%20Repository-black?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
