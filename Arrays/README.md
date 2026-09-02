@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-27-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-28-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -37,7 +37,7 @@ Uploaded : 27 Problems
 # 📂 Problems
 
 | No. | Problem                                      | Difficulty | Status  |
-| :-: | -------------------------------------------- | :--------: | :----:  |
+| :-: | -------------------------------------------- | :--------: | :-----: |
 |  1  | Two Sum                                      | 🟢 Easy    |   ✅   |
 |  2  | Median of Two Sorted Arrays                  | 🔴 Hard    |   ✅   |
 |  3  | Container With Most Water                    | 🟡 Medium  |   ✅   |
@@ -65,6 +65,7 @@ Uploaded : 27 Problems
 | 25  | Missing Number                               | 🟢 Easy    |   ✅   |
 | 26  | Move Zeroes                                  | 🟢 Easy    |   ✅   |
 | 27  | Find the Duplicate Number                    | 🟡 Medium  |   ✅   |
+| 28  | First Missing Positive                       | 🔴 Hard    |   ✅   |
 
 ---
 
