@@ -22,7 +22,7 @@ jobs:
           from pathlib import Path
           import re
 
-          TOTAL_PROBLEMS = 247
+          TOTAL_PROBLEMS = 335
 
           # Count problem folders inside Arrays
           arrays_path = Path("Arrays")
@@ -77,7 +77,7 @@ jobs:
 
               # Update total uploaded count
               text = re.sub(
-                  r'(\|\s*\*\*247\*\*\s*\|)\s*\*\*\d+\*\*',
+                  r'(\|\s*\*\*335\*\*\s*\|)\s*\*\*\d+\*\*',
                   rf'\g<1> **{total_uploaded}**',
                   text
               )
