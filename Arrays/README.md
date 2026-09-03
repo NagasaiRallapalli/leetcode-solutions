@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-28-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-29-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -66,6 +66,7 @@ Uploaded : 28 Problems
 | 26  | Move Zeroes                                  | 🟢 Easy    |   ✅   |
 | 27  | Find the Duplicate Number                    | 🟡 Medium  |   ✅   |
 | 28  | First Missing Positive                       | 🔴 Hard    |   ✅   |
+| 29  | Longest Consecutive Sequence                 | 🟡 Medium  |   ✅   |
 
 ---
 
