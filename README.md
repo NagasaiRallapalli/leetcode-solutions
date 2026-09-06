@@ -30,7 +30,7 @@ This repository contains my solutions to LeetCode problems implemented in **Pyth
 
 | Category | Problems |
 |----------|---------:|
-| 📚 Arrays | 30 |
+| 📚 Arrays | 31 |
 | 🔤 Strings | Coming Soon |
 | #️⃣ Hash Table | Coming Soon |
 | 👆 Two Pointers | Coming Soon |
@@ -52,7 +52,7 @@ This repository contains my solutions to LeetCode problems implemented in **Pyth
 
 | Total Solved | Uploaded |
 |-------------:|---------:|
-| **335** | **30** |
+| **335** | **31** |
 
 ---
 
