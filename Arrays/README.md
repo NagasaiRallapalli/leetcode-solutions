@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-30-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-31-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -68,6 +68,7 @@ Uploaded : 30 Problems
 | 28  | First Missing Positive                       | 🔴 Hard    |   ✅   |
 | 29  | Longest Consecutive Sequence                 | 🟡 Medium  |   ✅   |
 | 30  | Find Peak Element                            | 🟡 Medium  |   ✅   |
+| 31  | Super Ugly Number                            | 🟡 Medium  |   ✅   |
 
 ---
 
