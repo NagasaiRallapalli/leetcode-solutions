@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-31-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-32-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -69,6 +69,7 @@ Uploaded : 31 Problems
 | 29  | Longest Consecutive Sequence                 | 🟡 Medium  |   ✅   |
 | 30  | Find Peak Element                            | 🟡 Medium  |   ✅   |
 | 31  | Super Ugly Number                            | 🟡 Medium  |   ✅   |
+| 32  | Top K Frequent Elements                      | 🟡 Medium  |   ✅   |
 
 ---
 
