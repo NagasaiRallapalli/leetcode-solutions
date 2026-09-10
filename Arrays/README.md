@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-33-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-35-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -71,6 +71,8 @@ Uploaded : 33 Problems
 | 31  | Super Ugly Number                            | 🟡 Medium  |   ✅   |
 | 32  | Top K Frequent Elements                      | 🟡 Medium  |   ✅   |
 | 33  | Intersection of Two Arrays                   | 🟢 Easy    |   ✅   |
+| 34  | Intersection of Two Arrays II                | 🟢 Easy    |   ✅   |
+| 35  | Third Maximum Number                         | 🟢 Easy    |   ✅   |
 
 ---
 
