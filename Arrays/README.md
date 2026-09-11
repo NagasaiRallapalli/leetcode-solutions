@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-35-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-36-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -73,6 +73,7 @@ Uploaded : 35 Problems
 | 33  | Intersection of Two Arrays                   | 🟢 Easy    |   ✅   |
 | 34  | Intersection of Two Arrays II                | 🟢 Easy    |   ✅   |
 | 35  | Third Maximum Number                         | 🟢 Easy    |   ✅   |
+| 36  | Find All Duplicates in an Array              | 🟡 Medium  |   ✅   |
 
 ---
 
