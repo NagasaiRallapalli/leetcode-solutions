@@ -32,8 +32,8 @@ Each solution includes:
 
 ```text
 
-Uploaded : 36 Problems
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 36
+Uploaded : 37 Problems
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░ 37
 # 📂 Problems
 
 | No. | Problem                                      | Difficulty | Status  |
