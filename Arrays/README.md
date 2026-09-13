@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-37-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-38-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -75,6 +75,7 @@ Uploaded : 37 Problems
 | 35  | Third Maximum Number                         | 🟢 Easy    |   ✅   |
 | 36  | Find All Duplicates in an Array              | 🟡 Medium  |   ✅   |
 | 37  | Find All Numbers Disappeared in an Array     | 🟢 Easy    |   ✅   |
+| 38  | Max Consecutive Ones                         | 🟢 Easy    |   ✅   |
 
 ---
 
