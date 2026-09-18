@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-40-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-41-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -78,6 +78,7 @@ Uploaded : 40 Problems
 | 38  | Max Consecutive Ones                         | 🟢 Easy    |   ✅   |
 | 39  | Predict The Winner                           | 🟡 Medium  |   ✅   |
 | 40  | K-diff Pairs in an Array                     | 🟡 Medium  |   ✅   |
+| 41  | Single Element in a Sorted Array             | 🟡 Medium  |   ✅   |
 
 ---
 
