@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-42-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-43-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -80,6 +80,7 @@ Uploaded : 42 Problems
 | 40  | K-diff Pairs in an Array                     | 🟡 Medium  |   ✅   |
 | 41  | Single Element in a Sorted Array             | 🟡 Medium  |   ✅   |
 | 42  | Distribute Candies                           | 🟢 Easy    |   ✅   |
+| 43  | Maximum Product of Three Numbers             | 🟢 Easy    |   ✅   |
 
 ---
 
