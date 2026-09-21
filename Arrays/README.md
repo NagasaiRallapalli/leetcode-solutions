@@ -81,6 +81,7 @@ Uploaded : 43 Problems
 | 41  | Single Element in a Sorted Array             | 🟡 Medium  |   ✅   |
 | 42  | Distribute Candies                           | 🟢 Easy    |   ✅   |
 | 43  | Maximum Product of Three Numbers             | 🟢 Easy    |   ✅   |
+| 44  | Binary Search                                | 🟢 Easy    |   ✅   |
 
 ---
 
