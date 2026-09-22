@@ -36,53 +36,54 @@ Uploaded : 45 Problems
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 45
 # 📂 Problems
 
-| No. | Problem                                      | Difficulty | Status  |
-| :-: | -------------------------------------------- | :--------: | :-----: |
-|  1  | Two Sum                                      | 🟢 Easy    |   ✅   |
-|  2  | Median of Two Sorted Arrays                  | 🔴 Hard    |   ✅   |
-|  3  | Container With Most Water                    | 🟡 Medium  |   ✅   |
-|  4  | Remove Duplicates from Sorted Array          | 🟢 Easy    |   ✅   |
-|  5  | Remove Element                               | 🟢 Easy    |   ✅   |
-|  6  | Search in Rotated Sorted Array               | 🟡 Medium  |   ✅   |
-|  7  | Maximum Subarray                             | 🟡 Medium  |   ✅   |
-|  8  | Jump Game                                    | 🟡 Medium  |   ✅   |
-|  9  | Merge Intervals                              | 🟡 Medium  |   ✅   |
-| 10  | Plus One                                     | 🟢 Easy    |   ✅   |
-| 11  | Sort Colors                                  | 🟡 Medium  |   ✅   |
-| 12  | Merge Sorted Array                           | 🟢 Easy    |   ✅   |
-| 13  | Best Time to Buy and Sell Stock              | 🟢 Easy    |   ✅   |
-| 14  | Single Number                                | 🟢 Easy    |   ✅   |
-| 15  | Single Number II                             | 🟡 Medium  |   ✅   |
-| 16  | Maximum Product Subarray                     | 🟡 Medium  |   ✅   |
-| 17  | Find Minimum in Rotated Sorted Array II      | 🔴 Hard    |   ✅   |
-| 18  | Rotate Array                                 | 🟡 Medium  |   ✅   |
-| 19  | Count Primes                                 | 🟡 Medium  |   ✅   |
-| 20  | Kth Largest Element in an Array              | 🟡 Medium  |   ✅   |
-| 21  | Contains Duplicate                           | 🟢 Easy    |   ✅   |
-| 22  | Contains Duplicate II                        | 🟢 Easy    |   ✅   |
-| 23  | Product of Array Except Self                 | 🟡 Medium  |   ✅   |
-| 24  | Single Number III                            | 🟡 Medium  |   ✅   |
-| 25  | Missing Number                               | 🟢 Easy    |   ✅   |
-| 26  | Move Zeroes                                  | 🟢 Easy    |   ✅   |
-| 27  | Find the Duplicate Number                    | 🟡 Medium  |   ✅   |
-| 28  | First Missing Positive                       | 🔴 Hard    |   ✅   |
-| 29  | Longest Consecutive Sequence                 | 🟡 Medium  |   ✅   |
-| 30  | Find Peak Element                            | 🟡 Medium  |   ✅   |
-| 31  | Super Ugly Number                            | 🟡 Medium  |   ✅   |
-| 32  | Top K Frequent Elements                      | 🟡 Medium  |   ✅   |
-| 33  | Intersection of Two Arrays                   | 🟢 Easy    |   ✅   |
-| 34  | Intersection of Two Arrays II                | 🟢 Easy    |   ✅   |
-| 35  | Third Maximum Number                         | 🟢 Easy    |   ✅   |
-| 36  | Find All Duplicates in an Array              | 🟡 Medium  |   ✅   |
-| 37  | Find All Numbers Disappeared in an Array     | 🟢 Easy    |   ✅   |
-| 38  | Max Consecutive Ones                         | 🟢 Easy    |   ✅   |
-| 39  | Predict The Winner                           | 🟡 Medium  |   ✅   |
-| 40  | K-diff Pairs in an Array                     | 🟡 Medium  |   ✅   |
-| 41  | Single Element in a Sorted Array             | 🟡 Medium  |   ✅   |
-| 42  | Distribute Candies                           | 🟢 Easy    |   ✅   |
-| 43  | Maximum Product of Three Numbers             | 🟢 Easy    |   ✅   |
-| 44  | Binary Search                                | 🟢 Easy    |   ✅   |
-| 45  | Subarray Product Less Than K                 | 🟡 Medium  |   ✅   |
+| No. | Problem                                       | Difficulty | Status  |
+| :-: | --------------------------------------------  | :--------: | :-----: |
+|  1  | Two Sum                                       | 🟢 Easy    |   ✅   |
+|  2  | Median of Two Sorted Arrays                   | 🔴 Hard    |   ✅   |
+|  3  | Container With Most Water                     | 🟡 Medium  |   ✅   |
+|  4  | Remove Duplicates from Sorted Array           | 🟢 Easy    |   ✅   |
+|  5  | Remove Element                                | 🟢 Easy    |   ✅   |
+|  6  | Search in Rotated Sorted Array                | 🟡 Medium  |   ✅   |
+|  7  | Maximum Subarray                              | 🟡 Medium  |   ✅   |
+|  8  | Jump Game                                     | 🟡 Medium  |   ✅   |
+|  9  | Merge Intervals                               | 🟡 Medium  |   ✅   |
+| 10  | Plus One                                      | 🟢 Easy    |   ✅   |
+| 11  | Sort Colors                                   | 🟡 Medium  |   ✅   |
+| 12  | Merge Sorted Array                            | 🟢 Easy    |   ✅   |
+| 13  | Best Time to Buy and Sell Stock               | 🟢 Easy    |   ✅   |
+| 14  | Single Number                                 | 🟢 Easy    |   ✅   |
+| 15  | Single Number II                              | 🟡 Medium  |   ✅   |
+| 16  | Maximum Product Subarray                      | 🟡 Medium  |   ✅   |
+| 17  | Find Minimum in Rotated Sorted Array II       | 🔴 Hard    |   ✅   |
+| 18  | Rotate Array                                  | 🟡 Medium  |   ✅   |
+| 19  | Count Primes                                  | 🟡 Medium  |   ✅   |
+| 20  | Kth Largest Element in an Array               | 🟡 Medium  |   ✅   |
+| 21  | Contains Duplicate                            | 🟢 Easy    |   ✅   |
+| 22  | Contains Duplicate II                         | 🟢 Easy    |   ✅   |
+| 23  | Product of Array Except Self                  | 🟡 Medium  |   ✅   |
+| 24  | Single Number III                             | 🟡 Medium  |   ✅   |
+| 25  | Missing Number                                | 🟢 Easy    |   ✅   |
+| 26  | Move Zeroes                                   | 🟢 Easy    |   ✅   |
+| 27  | Find the Duplicate Number                     | 🟡 Medium  |   ✅   |
+| 28  | First Missing Positive                        | 🔴 Hard    |   ✅   |
+| 29  | Longest Consecutive Sequence                  | 🟡 Medium  |   ✅   |
+| 30  | Find Peak Element                             | 🟡 Medium  |   ✅   |
+| 31  | Super Ugly Number                             | 🟡 Medium  |   ✅   |
+| 32  | Top K Frequent Elements                       | 🟡 Medium  |   ✅   |
+| 33  | Intersection of Two Arrays                    | 🟢 Easy    |   ✅   |
+| 34  | Intersection of Two Arrays II                 | 🟢 Easy    |   ✅   |
+| 35  | Third Maximum Number                          | 🟢 Easy    |   ✅   |
+| 36  | Find All Duplicates in an Array               | 🟡 Medium  |   ✅   |
+| 37  | Find All Numbers Disappeared in an Array      | 🟢 Easy    |   ✅   |
+| 38  | Max Consecutive Ones                          | 🟢 Easy    |   ✅   |
+| 39  | Predict The Winner                            | 🟡 Medium  |   ✅   |
+| 40  | K-diff Pairs in an Array                      | 🟡 Medium  |   ✅   |
+| 41  | Single Element in a Sorted Array              | 🟡 Medium  |   ✅   |
+| 42  | Distribute Candies                            | 🟢 Easy    |   ✅   |
+| 43  | Maximum Product of Three Numbers              | 🟢 Easy    |   ✅   |
+| 44  | Binary Search                                 | 🟢 Easy    |   ✅   |
+| 45  | Subarray Product Less Than K                  | 🟡 Medium  |   ✅   |
+| 46  | Longest Substring Without Repeating Characters| 🟡 Medium  |   ✅   |
 
 ---
 
