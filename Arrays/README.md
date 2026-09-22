@@ -82,6 +82,7 @@ Uploaded : 44 Problems
 | 42  | Distribute Candies                           | 🟢 Easy    |   ✅   |
 | 43  | Maximum Product of Three Numbers             | 🟢 Easy    |   ✅   |
 | 44  | Binary Search                                | 🟢 Easy    |   ✅   |
+| 45  | Subarray Product Less Than K                 | 🟡 Medium  |   ✅   |
 
 ---
 
