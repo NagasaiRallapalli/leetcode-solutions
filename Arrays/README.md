@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-43-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-46-brightgreen?style=for-the-badge)
 
 </div>
 
