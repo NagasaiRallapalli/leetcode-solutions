@@ -20,7 +20,7 @@ This repository contains my solutions to LeetCode problems implemented in **Pyth
 
 - ✅ Clean and readable code
 - 📝 Problem explanation
-- 🚀 Approach
+- 🚀 Step by Step Approach
 - 📊 Time Complexity
 - 📊 Space Complexity
 
