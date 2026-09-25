@@ -84,6 +84,7 @@ Uploaded : 46 Problems
 | 44  | Binary Search                                 | 🟢 Easy    |   ✅   |
 | 45  | Subarray Product Less Than K                  | 🟡 Medium  |   ✅   |
 | 46  | Longest Substring Without Repeating Characters| 🟡 Medium  |   ✅   |
+| 49  | Max Points On a Line                          | 🔴 Hard    |   ✅   |
 
 ---
 
