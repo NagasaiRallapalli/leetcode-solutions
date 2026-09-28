@@ -87,6 +87,7 @@ Uploaded : 49 Problems
 | 47  | Max Points On a Line                          | 🔴 Hard    |   ✅   |
 | 48  | Minimum Size Subarray Sum                     | 🟡 Medium  |   ✅   |
 | 49  | Majority Element II                           | 🟡 Medium  |   ✅   |
+| 50  | Longest Increasing Subsequence                | 🟡 Medium  |   ✅   |
 
 ---
 
