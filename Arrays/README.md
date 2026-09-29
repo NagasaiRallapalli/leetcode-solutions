@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-49-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-51-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -88,6 +88,7 @@ Uploaded : 50 Problems
 | 48  | Minimum Size Subarray Sum                     | 🟡 Medium  |   ✅   |
 | 49  | Majority Element II                           | 🟡 Medium  |   ✅   |
 | 50  | Longest Increasing Subsequence                | 🟡 Medium  |   ✅   |
+| 51  | Maximum Product of Word Lengths               | 🟡 Medium  |   ✅   |
 
 ---
 
