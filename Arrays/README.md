@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-53-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-54-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -90,7 +90,8 @@ Uploaded : 53 Problems
 | 50  | Longest Increasing Subsequence                | 🟡 Medium  |   ✅   |
 | 51  | Maximum Product of Word Lengths               | 🟡 Medium  |   ✅   |
 | 52  | Wiggle Sort II                                | 🟡 Medium  |   ✅   |
-| 53  | Wiggle Subsequence                            | 🟡 Medium  |   ✅   |             
+| 53  | Wiggle Subsequence                            | 🟡 Medium  |   ✅   |
+| 54  | Next Greater Element II                       | 🟡 Medium  |   ✅   |
 
 ---
 
