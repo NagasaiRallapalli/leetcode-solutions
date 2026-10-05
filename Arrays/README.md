@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-55-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-56-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -93,6 +93,7 @@ Uploaded : 55 Problems
 | 53  | Wiggle Subsequence                            | 🟡 Medium  |   ✅   |
 | 54  | Next Greater Element II                       | 🟡 Medium  |   ✅   |
 | 55  | Set Mismatch                                  | 🟢 Easy    |   ✅   |
+| 56  | Top K Frequent Words                          | 🟡 Medium  |   ✅   |
 
 ---
 
