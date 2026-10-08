@@ -95,6 +95,7 @@ Uploaded : 57 Problems
 | 55  | Set Mismatch                                  | 🟢 Easy    |   ✅   |
 | 56  | Top K Frequent Words                          | 🟡 Medium  |   ✅   |
 | 57  | 1-bit and 2-bit Characters                    | 🟢 Easy    |   ✅   |
+| 58  | Find Smallest Letter Greater Than Target      | 🟢 Easy    |   ✅   |
 
 ---
 
