@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-60-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-61-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -98,6 +98,7 @@ Uploaded : 60 Problems
 | 58  | Find Smallest Letter Greater Than Target      | 🟢 Easy    |   ✅   |
 | 59  | Image OverLap                                 | 🟡 Medium  |   ✅   |
 | 60  | Stone Game                                    | 🟡 Medium  |   ✅   |
+| 61  | Sort Array By Parity                          | 🟢 Easy    |   ✅   |
 
 ---
 
