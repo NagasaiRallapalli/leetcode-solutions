@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-61-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-62-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -99,6 +99,7 @@ Uploaded : 61 Problems
 | 59  | Image OverLap                                 | 🟡 Medium  |   ✅   |
 | 60  | Stone Game                                    | 🟡 Medium  |   ✅   |
 | 61  | Sort Array By Parity                          | 🟢 Easy    |   ✅   |
+| 62  | Sort An Array                                 | 🟡 Medium  |   ✅   |
 
 ---
 
