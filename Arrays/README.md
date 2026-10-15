@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-63-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-64-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -101,6 +101,7 @@ Uploaded : 63 Problems
 | 61  | Sort Array By Parity                          | 🟢 Easy    |   ✅   |
 | 62  | Sort An Array                                 | 🟡 Medium  |   ✅   |
 | 63  | X of a Kind in a Deck of Cards                | 🟢 Easy    |   ✅   |
+| 64  | Sort Array By Parity II                       | 🟢 Easy    |   ✅   |
 
 ---
 
