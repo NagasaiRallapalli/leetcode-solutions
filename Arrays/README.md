@@ -8,7 +8,7 @@
 
 ![LeetCode](https://img.shields.io/badge/Category-Arrays-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
-![Problems](https://img.shields.io/badge/Problems-67-brightgreen?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-68-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -105,6 +105,7 @@ Uploaded : 67 Problems
 | 65  | Array of Doubled Pairs                        | 🟡 Medium  |   ✅   |
 | 66  | K Closest Points to Origin                    | 🟡 Medium  |   ✅   |
 | 67  | Minimum Moves to Equal Array Elements         | 🟡 Medium  |   ✅   |
+| 68  | Minimum Moves to Equal Array Elements II      | 🟡 Medium  |   ✅   |
 
 ---
 

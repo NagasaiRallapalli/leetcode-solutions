@@ -1,0 +1,83 @@
+# Minimum Moves to Equal Array Elements II
+
+![LeetCode](https://img.shields.io/badge/LeetCode-462-orange)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+
+## 📌 Problem
+
+Given an integer array `nums`, return the minimum number of moves required to make all array elements equal.
+
+In one move, you can increment or decrement an element by `1`.
+
+## 💡 Example
+
+**Input:**
+```python
+nums = [1, 2, 3]
+```
+
+**Output:**
+```python
+2
+```
+
+**Explanation:**
+
+Make all elements equal to `2`:
+
+- `1 → 2` (1 move)
+- `2 → 2` (0 moves)
+- `3 → 2` (1 move)
+
+Total moves = `2`.
+
+## 🚀 Approach
+
+1. Find the length of the array and store it in `n`.
+2. Sort the array in ascending order using `nums.sort()`.
+3. Find the median:
+   - If the array length is even, calculate the average of the two middle elements using integer division.
+   - If the array length is odd, select the middle element.
+4. Initialize `count = 0`.
+5. Iterate through the array and add the absolute difference between each element and the median.
+6. Return the total count.
+
+**Logic:** The median minimizes the sum of absolute differences between all array elements and a common target value.
+
+## 💻 Solution
+
+```python
+class Solution:
+    def minMoves2(self, nums: list[int]) -> int:
+        n = len(nums)
+        nums.sort()
+        if n % 2 == 0:
+            median = (nums[n // 2] + (nums[n // 2 - 1])) // 2
+        else:
+            median = nums[n // 2]
+        count = 0
+        for i in nums:
+            count += abs(i - median)
+        return count
+```
+
+## 📊 Complexity Analysis
+
+- **Time Complexity:** `O(n log n)` — Sorting takes `O(n log n)`, and calculating the total moves takes `O(n)`.
+- **Space Complexity:** `O(1)` auxiliary space, excluding the sorting implementation's internal space.
+
+## 🧠 Key Concepts
+
+- Arrays
+- Sorting
+- Median
+- Absolute difference
+- Mathematical optimization
+
+## 🏷️ Difficulty
+
+Medium
+
+## 🔗 LeetCode
+
+[Minimum Moves to Equal Array Elements II — LeetCode 462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
